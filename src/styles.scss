@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+@font-face {
+  font-family: 'MarkPro';
+  src: url('/assets/fonts/MarkPro.otf') format('opentype');
+}
+
+body {
+  font-weight: 300;
+  font-family: 'MarkPro', arial, sans-serif;
+}

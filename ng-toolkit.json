@@ -1,0 +1,8 @@
+{
+  "universal": {
+    "project": "anthill-v2019",
+    "skipInstall": false,
+    "directory": ".",
+    "http": true
+  }
+}
